@@ -1,0 +1,9 @@
+5 5
+###D#
+###P#
+### #
+BS P#
+#####
+<3,3>, Spearow, Flying, 10, 3
+<1,3>, Bulbasaur, Grass, 20, 2
+<3,1>, 10
